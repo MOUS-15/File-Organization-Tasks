@@ -12,15 +12,3 @@ Welcome to the **File Organization Tasks** repository! This repository is dedica
 
 ---
 
-## 📂 Repository Structure
-
-```text
-File-Organization-Tasks/
-├── Course_Name_1/
-│   ├── Task_01/
-│   │   ├── docs/          # Problem statement & report
-│   │   └── src/           # Implementation / Code files
-│   └── Task_02/
-├── Course_Name_2/
-│   └── Task_01/
-└── README.md

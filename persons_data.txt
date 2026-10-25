@@ -1,0 +1,8 @@
+Name     Age
+Mostafa  20
+Ali  19
+Ahmed  17
+
+data of older and younger persons 
+Ahmed     17
+Mostafa     20

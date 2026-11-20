@@ -27,7 +27,7 @@ int main()
         }
         file.close();
     }
-
+    
     // print the contents of array
     cout<<"the content of file are"<<endl;
     for (int x=0;x<3;x++)

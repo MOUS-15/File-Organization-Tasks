@@ -17,5 +17,5 @@ The list of student names to be sorted:
 ## 📤 Output File Structure
 The sorted list of student names in ascending order:
 
-```text
+text
 - `Ahmed Mostafa`

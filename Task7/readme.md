@@ -18,7 +18,7 @@ The list of student names to be sorted:
 The sorted list of student names in ascending order:
 
 ''' text
-- 'Ahmed Mostafa'
+Ahmed Mostafa
 Esraa Ebrahim
 Hadeer Mahmoud
 Youssef Ali

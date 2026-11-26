@@ -19,6 +19,3 @@ The sorted list of student names in ascending order:
 
 ```text
 - `Ahmed Mostafa`
-Esraa Ebrahim
-Hadeer Mahmoud
-Youssef Ali

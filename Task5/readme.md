@@ -1,8 +1,3 @@
----
-
-### 2. Task 05 (Lab 2)[cite: 4]
-
-```markdown
 # 📝 Task 05: Delimited Student Records
 
 ## 📌 Problem Statement
